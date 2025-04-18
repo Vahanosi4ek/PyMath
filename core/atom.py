@@ -1,4 +1,4 @@
-from PyMath import _utils
+from pymath import _utils
 
 class Constant:
     def __init__(self, value):

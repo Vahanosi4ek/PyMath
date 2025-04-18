@@ -1,7 +1,7 @@
 from tmp_setup import *
 setup()
 
-from PyMath import *
+from pymath import *
 
 a = Constant(5)
 b = Constant(3.14)
